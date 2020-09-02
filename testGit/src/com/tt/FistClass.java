@@ -11,6 +11,8 @@ public class FistClass {
         for (String s : list) {
             System.out.println(s);
         }
+
+        System.out.println("buhaowan ");
     }
 }
 
